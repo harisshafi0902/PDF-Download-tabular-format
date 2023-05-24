@@ -1,40 +1,40 @@
 {
-  "title": "PDF Document in Puppeteer & Handlebars",
+  "title": "PDF Document By Haris Shafi ",
   "users": [
     {
-      "name": "Kane Williamson",
-      "age": 32,
-      "country": "New Zealand"
+      "name": "Haris Shafi",
+      "age": 25,
+      "country": "Pakistan"
     },
     {
-      "name": "Martin Guptill",
-      "age": 35,
-      "country": "New Zealand"
+      "name": "Momin Riaz",
+      "age": 26,
+      "country": "Japan"
     },
     {
-      "name": "Finn Allen",
+      "name": "Zeeshan Nazir",
+      "age": 28,
+      "country": "Australia"
+    },
+    {
+      "name": "Siraj",
       "age": 22,
-      "country": "New Zealand"
+      "country": "Turkey"
     },
     {
-      "name": "Trent Boult",
-      "age": 32,
-      "country": "New Zealand"
+      "name": "Asif Mehmood",
+      "age": 21,
+      "country": "America"
     },
     {
-      "name": "Tim Southee",
-      "age": 33,
-      "country": "New Zealand"
+      "name": "Haseeb",
+      "age": 19,
+      "country": "Germany"
     },
     {
-      "name": "Ross Taylor",
-      "age": 38,
-      "country": "New Zealand"
-    },
-    {
-      "name": "Blair Tickner",
+      "name": "Jammal",
       "age": 29,
-      "country": "New Zealand"
+      "country": "Africa"
     }
   ]
 }
